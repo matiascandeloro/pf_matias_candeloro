@@ -1,0 +1,17 @@
+aside{
+    position: absolute;
+    width: 200px;
+    height: calc(100vh - 55px);
+    background-color: darkgray;
+
+}
+a {
+    background-color: lightgray;
+    display: block;
+    text-decoration: none;
+    padding: 4px;
+}
+a:hover{
+    color: white;
+    background-color: darkgray;
+}
